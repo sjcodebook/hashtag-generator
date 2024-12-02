@@ -1,1 +1,1 @@
-Hoot & Hustle by ProcrastiNix
+Hashtag Generator
